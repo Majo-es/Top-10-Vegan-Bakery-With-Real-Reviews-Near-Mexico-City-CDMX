@@ -1,6 +1,6 @@
 # Top 10 Vegan Bakery With Real Reviews Near Mexico City, CDMX
 
-This Python script utilizes the Beautiful Soup library to scrape and analyze data from the web. It specifically targets the following:
+This Python script (fragile program) utilizes the Beautiful Soup library to scrape and analyze data from the web. It specifically targets the following:
 - Target website: Extracts information from a popular review platform to find bakeries.
 - Location: Focuses on bakeries in Mexico City, CDMX.
 - Vegan bakeries: Identifies bakeries with vegan options (filtering based on keywords or business descriptions).
