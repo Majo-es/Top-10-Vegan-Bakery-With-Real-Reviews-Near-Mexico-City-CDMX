@@ -3,7 +3,7 @@
 This Python script (fragile program) utilizes the Beautiful Soup library to scrape and analyze data from the web. It specifically targets the following:
 - Target website: Extracts information from a popular review platform to find bakeries.
 - Location: Focuses on bakeries in Mexico City, CDMX.
-- Vegan bakeries: Identifies bakeries with vegan options (filtering based on keywords or business descriptions).
+- Vegan bakeries: Identifies bakeries with vegan options.
 - Top 10 results: Scrapes information for the top 10 vegan bakery listings.
 
 Libraries used:
